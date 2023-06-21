@@ -1,7 +1,9 @@
 {
   "name": "TG File Share/Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
+  "stack": "heroku-22",
   "keywords": [
+
     "telegram",
     "file",
     "sharing"
